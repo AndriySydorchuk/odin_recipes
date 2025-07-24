@@ -5,6 +5,14 @@
     font-family: 'Courier New', serif;
 }
 
+html, body {
+    height: 100%;
+}
+
+body {
+    background-color: rgba(255, 166, 0, 0.562);
+}
+
 header {
     background-color: rgba(255, 166, 0, 0.781);
 }
@@ -15,4 +23,22 @@ header {
     margin-top: 0px;
     padding: 40px 0px;
     font-size: 48px;
+}
+
+.list {
+    margin-left: 300px;
+}
+
+.list_item {
+    font-size: 32px;
+    padding: 16px 0px;
+}
+
+.list_item-link {
+    color: black;
+    text-decoration: none;
+}
+
+.list_item-link:hover {
+    text-decoration: underline;
 }
