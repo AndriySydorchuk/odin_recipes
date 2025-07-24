@@ -1,0 +1,18 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Courier New', serif;
+}
+
+header {
+    background-color: rgba(255, 166, 0, 0.781);
+}
+
+.title {
+    text-align: center;
+    margin: 40px 20px;
+    margin-top: 0px;
+    padding: 40px 0px;
+    font-size: 48px;
+}
