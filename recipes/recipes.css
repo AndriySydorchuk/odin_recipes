@@ -56,8 +56,7 @@ h3 {
 }
 
 .steps {
-    margin: 50px 100px;
-    padding-bottom: 100px;
+    margin: 50px 100px 0px;
 }
 
 ol li {
@@ -66,4 +65,13 @@ ol li {
 
 h2 {
     margin-bottom: 10px;
+}
+
+.ingred, .steps {
+    padding: 48px;
+    background-color: rgba(255, 166, 0, 0.534);
+}
+
+footer {
+    height: 100px;
 }
