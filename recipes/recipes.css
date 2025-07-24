@@ -27,3 +27,22 @@ header {
 .back-link:hover {
     text-decoration: underline;
 }
+
+.title {
+    text-align: center;
+    margin: 40px 0px 20px;
+}
+
+img {
+    display: block;
+    margin: 0 auto;
+    height: 400px;
+    width: 400px;
+}
+
+.desc {
+    width: 500px;
+    margin: 10px 100px 50px;
+    text-align: center;
+    margin: 20px auto 50px;
+}
