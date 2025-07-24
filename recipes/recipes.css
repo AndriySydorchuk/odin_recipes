@@ -46,3 +46,24 @@ img {
     text-align: center;
     margin: 20px auto 50px;
 }
+
+.ingred {
+    margin: 50px 100px;
+}
+
+h3 {
+    margin-top: 10px;
+}
+
+.steps {
+    margin: 50px 100px;
+    padding-bottom: 100px;
+}
+
+ol li {
+    margin-bottom: 10px;
+}
+
+h2 {
+    margin-bottom: 10px;
+}
